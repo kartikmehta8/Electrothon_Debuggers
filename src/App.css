@@ -1,0 +1,10 @@
+@import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.nav {
+  font-family: 'Staatliches', cursive;
+}
+
+.time {
+  color: black;
+}
